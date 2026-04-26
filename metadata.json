@@ -1,0 +1,6 @@
+{
+  "name": "Simple AI Chat",
+  "description": "A minimalist, easy-to-use intelligent conversation interface using the Gemini API.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
